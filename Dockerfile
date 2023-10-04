@@ -1,3 +1,4 @@
+# Choose the Image which has Node installed already
 FROM node:lts-alpine
 
 # install simple http server for serving static content
